@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi, I'm Ali 👋
 
-<!--
-**alialiahma8425-create/alialiahma8425-create** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build web applications, Telegram tools, automation solutions, and online marketing utilities.
 
-Here are some ideas to get you started:
+## 🚀 Featured Project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Telegram Channel & Group Finder
+
+Search public Telegram channels and groups by keyword.
+
+✔ Search channels and groups
+
+✔ Multiple keyword support
+
+✔ Member filtering
+
+✔ TXT export
+
+🌐 Live Tool
+
+https://teleboostpro.com/tools/telegram-channel-group-finder
+
+---
+
+## 🌍 More Projects
+
+### TeleBoostPro
+
+https://teleboostpro.com
+
+Tools include:
+
+- Telegram Channel & Group Finder
+- Animated Sticker Maker
+- Telegram Growth Tools
+- More Telegram utilities coming soon
+
+---
+
+## Skills
+
+- PHP
+- Laravel
+- JavaScript
+- Python
+- Telegram Bots
+- API Integration
+- SEO
+- Automation
+
+---
+
+⭐ Thanks for visiting my profile.
